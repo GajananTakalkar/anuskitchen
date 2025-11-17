@@ -65,7 +65,7 @@ HTML_PAGE = """
     </header>
 
     <div class="banner">
-        <img src="https://i.ibb.co/6BT7s97/amla.jpg" alt="Amla Murabba">
+        <img src="WhatsApp Image 2025-11-17 at 21.42.59.jpeg" alt="Amla Murabba">
     </div>
 
     <div class="section">
