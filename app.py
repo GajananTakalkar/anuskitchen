@@ -65,7 +65,7 @@ HTML_PAGE = """
     </header>
 
     <div class="banner">
-        <img src="avla.jpeg" alt="Amla Murabba">
+        <img src="/avla.jpeg" alt="Amla Murabba">
     </div>
 
     <div class="section">
